@@ -1,0 +1,19 @@
+.container{
+    max-width: 1440px;
+    margin: 0 auto;
+    font-size:13px;
+}
+.Increment{
+    background-color: red;
+    color: white
+}
+.decrement{
+    background-color: blue;
+    color: white
+}
+.flexi{
+    width: 400px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;    
+}
